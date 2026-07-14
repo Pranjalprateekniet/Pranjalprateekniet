@@ -151,9 +151,9 @@ Open Source : Looking for Backend & AI collaborations
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pranjalprateekniet&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranjalprateekniet&theme=github-dark&hide_border=true"/>
+[<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pranjalprateekniet&show_icons=true&theme=github_dark&hide_border=true"/>
+](https://github-readme-stats.vercel.app/api?username=Pranjalprateekniet&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800)
+[<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranjalprateekniet&theme=github-dark&hide_border=true"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjalprateekniet&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800)
 
 </p>
 
