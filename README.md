@@ -122,7 +122,7 @@ Open Source : Looking for Backend & AI collaborations
 
 # Featured Projects
 
-## 🏋️ NuvioCore
+## [🏋️ NuvioCore](https://github.com/Pranjalprateekniet/FIT-TRACK-SPRINGBOOT)
 
 > AI-powered Fitness & Nutrition Platform
 
@@ -147,19 +147,6 @@ Open Source : Looking for Backend & AI collaborations
 
 ---
 
----
-
-# 🚀 Featured Project
-
-<p align="center">
-  <a href="https://github.com/Pranjalprateekniet/FIT-TRACK-SPRINGBOOT">
-    <img width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pranjalprateekniet&repo=FIT-TRACK-SPRINGBOOT&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <b>NuvioCore</b> • AI-powered Fitness & Nutrition Platform built using Spring Boot, PostgreSQL, JWT Authentication, Redis and REST APIs.
-</p>
 
 # Connect
 
