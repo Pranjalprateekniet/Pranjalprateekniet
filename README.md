@@ -165,21 +165,10 @@ Open Source : Looking for Backend & AI collaborations
 
 ---
 
-# Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranjalprateekniet&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
 # Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Pranjalprateekniet/Pranjalprateekniet/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
