@@ -123,31 +123,7 @@ Status      : Building every single day...
 `Spring Security`
 `Redis`
 
----
 
-## 🌐 Hi-Life Paints
-
-Premium business website focused on SEO, performance and modern UI.
-
-**Tech**
-
-`Next.js`
-`TypeScript`
-`Tailwind CSS`
-
----
-
-## 📡 Packet Analyzer
-
-A network packet analyzer written in Java with plans for ML-powered traffic classification.
-
-**Tech**
-
-`Java`
-`Computer Networks`
-`Machine Learning`
-
----
 
 # GitHub Analytics
 
@@ -194,7 +170,6 @@ A network packet analyzer written in Java with plans for ML-powered traffic clas
 | Platform | Progress |
 |-----------|----------|
 | LeetCode | **250+ Problems Solved** |
-| Codeforces | Beginning Competitive Programming Journey |
 
 </div>
 
@@ -228,7 +203,7 @@ while(alive){
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:pranjalprateekniet@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
