@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Java+%7C+Spring+Boot+%7C+PostgreSQL;Learning+Cloud+%2B+System+Design+%2B+AI;250%2B+LeetCode+Problems+Solved" />
 
 <p align="center">
-<a href="https://github.com/Pranjalprateek">
+<a href="https://github.com/Pranjalprateekniet">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:pranjalprateekniet@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -59,20 +59,42 @@ DSA         : 250+ LeetCode Problems
 
 Goal        : Become a Backend Engineer building scalable distributed systems
 
-Status      : Building every single day...
+Open Source : Looking for Backend & AI collaborations
 ```
 
 ---
 
-# Tech Stack
+# 💻 Tech Stack
+
+### Languages
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,docker,git,github,linux,react,nodejs,ts,js,html,css,vscode,idea"/>
-
+<img src="https://skillicons.dev/icons?i=java,js,ts,sql"/>
 </p>
 
----
+### Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,nodejs"/>
+</p>
+
+### Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,html,css"/>
+</p>
+
+### Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,redis"/>
+</p>
+
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,idea,postman"/>
+</p>
 
 # Current Focus
 
@@ -129,15 +151,15 @@ Status      : Building every single day...
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pranjalprateek&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pranjalprateekniet&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranjalprateek&theme=github-dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranjalprateekniet&theme=github-dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjalprateek&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjalprateekniet&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -147,7 +169,7 @@ Status      : Building every single day...
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranjalprateek&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranjalprateekniet&theme=github-dark&hide_border=true"/>
 
 </p>
 
@@ -157,7 +179,7 @@ Status      : Building every single day...
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Pranjalprateekniet/Pranjalprateekniet/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -195,7 +217,7 @@ while(alive){
 
 <p align="center">
 
-<a href="https://github.com/Pranjalprateek">
+<a href="https://github.com/Pranjalprateekniet">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
@@ -213,7 +235,7 @@ while(alive){
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Pranjalprateek&style=for-the-badge&color=grey)
+![](https://komarev.com/ghpvc/?username=Pranjalprateekniet&style=for-the-badge&color=grey)
 
 ### Thanks for visiting.
 
