@@ -1,171 +1,90 @@
-<h1 align="center">Hi 👋, I'm Pranjal Prateek</h1>
+# Pranjal Prateek
 
-<h3 align="center">
-Backend Developer • Java • Spring Boot • AI Enthusiast
-</h3>
-
-<p align="center">
-Building scalable backend systems while exploring AI, Agentic Workflows and Cloud Engineering.
-</p>
+> Backend systems engineer building production-grade AI applications. Java + Spring Boot | Learning MLOps + LangGraph.
 
 ---
 
-# 🚀 Currently Working On
-
-- 🏋️ NuvioCore — AI Powered Fitness Platform
-- 🤖 Learning Generative AI & Agentic AI
-- ☁️ Exploring Cloud, Docker, Kubernetes and DevOps
-- 💻 Solving DSA & Competitive Programming
+## Current Focus
 
 ---
 
-# 💡 About Me
+## About
 
-<table>
-<tr>
-<td width="50%">
+Building scalable backend systems with a focus on clean architecture and defensible design decisions. I approach each project as a real product—not a tutorial—with actual users in mind.
 
-### 👨‍💻 Backend
-
-- Java
-- Spring Boot
-- Spring Security
-- REST APIs
-- Hibernate
-- JWT
-- PostgreSQL
-- Redis
-
-</td>
-
-<td width="50%">
-
-### 🚀 Currently Learning
-
-- Generative AI
-- LangChain
-- LangGraph
-- PyTorch
-- Cloud Computing
-- Kubernetes
-- System Design
-
-</td>
-</tr>
-</table>
----
-
-# 🌟 Featured Projects
-
-### 🏋️ NuvioCore
-
-AI Powered Fitness Platform built using Spring Boot.
-
-**Features**
-
-- JWT Authentication
-- AI Nutrition Planning
-- Workout Tracking
-- Goal Management
-- REST APIs
-- PostgreSQL
-- Redis
-
----
-# 🛠 Tech Stack
-
-## Languages
-
-![Java](https://skillicons.dev/icons?i=java,python,js,ts)
-
-## Backend
-
-![Backend](https://skillicons.dev/icons?i=spring,nodejs)
-
-## Frontend
-
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind)
-
-## Database
-
-![Database](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis)
-
-## Dev Tools
-
-![Tools](https://skillicons.dev/icons?i=git,github,docker,firebase,supabase,nginx)
+**What drives me:**
+- Writing backend code I can defend in interviews
+- Understanding system design at scale (caching layers, database optimization, microservice patterns)
+- Exploring generative and agentic AI with LangChain/LangGraph as practical tools
+- Shipping projects end-to-end: from Spring Boot API to Docker to Railway/AWS deployment
+- Competitive programming and DSA as mental discipline (~350–400 problems, graphs/DP focus)
 
 ---
 
-# 🧠 Coding Profiles
+## Tech Radar
 
-<p align="center">
+**Confident:**
+Java · Spring Boot · Spring Security · REST APIs · PostgreSQL · Redis · Docker · React · Next.js
 
-<a href="https://leetcode.com/u/pranjalprateek/">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode"/>
-</a>
+**Actively Learning:**
+Kotlin/Jetpack Compose · MLOps (MLflow) · LangChain/LangGraph · Kubernetes · Nginx · Git workflows
 
-<a href="https://github.com/PranjalPrateekniet">
-<img src="https://img.shields.io/badge/GitHub-Open%20Source-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/pranjal-prateek-aab100375">
-<img src="https://img.shields.io/badge/LinkedIn-Pranjal-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
+**Exploring:**
+PyTorch · FastAPI for ML systems · RAG architectures · Distributed systems
 
 ---
 
-# 📈 GitHub Analytics
+## Featured Work
 
-<p align="center">
+### NuvioCore – FitTrack
+**AI-powered fitness platform** | Java, Spring Boot, PostgreSQL, Redis, Jetpack Compose
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PranjalPrateekniet&show_icons=true&theme=tokyonight&hide_border=true"/>
+A production-grade Android app with a backend architecture designed for scale:
+- **JWT authentication** with refresh token rotation
+- **Three-tier food lookup** (Redis cache → PostgreSQL → Edamam API fallback)
+- **Rate limiting** via Bucket4j
+- **Micronutrient tracking** with JSONB storage
+- **Agentic AI layer** using function calling for personalized nutrition
+- **Deployment:** Railway (backend), Google Play track (mobile)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalPrateekniet&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=PranjalPrateekniet&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranjalPrateekniet&theme=tokyonight"/>
-
-</p>
+*Positioned as a portfolio piece demonstrating full-stack decisions: auth patterns, caching strategy, API design, and DevOps flow.*
 
 ---
 
-# 📫 Connect With Me
+### Hi-Life Nerolac Paints
+**Modern business website** | React, Tailwind, Next.js
 
-<p align="center">
-
-<a href="mailto:pranjalprateekniet@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/pranjal-prateek-aab100375">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://instagram.com/pranjal_prateek_">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</p>
+Client-facing e-commerce platform for a local paint/sanitary retailer:
+- SEO-optimized product catalog
+- Responsive design from mobile to desktop
+- Integrated payment processing (Razorpay)
+- Server-side HMAC verification for security
+- Multi-tenant isolation with Supabase projects per client
+- Phone OTP authentication
 
 ---
 
-<p align="center">
+## Let's Connect
 
-<i>"First make it work, then make it fast, then make it beautiful."</i>
+**Email:** pranjalprateekniet@gmail.com  
+**GitHub:** [github.com/PranjalPrateekniet](https://github.com/PranjalPrateekniet)  
+**LinkedIn:** [linkedin.com/in/pranjal-prateek-aab100375](https://linkedin.com/in/pranjal-prateek-aab100375)  
+**LeetCode:** [leetcode.com/u/pranjalprateek](https://leetcode.com/u/pranjalprateek)
 
-</p>
+---
+
+## Building In Public
+
+I document my learning process openly:
+- **System design deep dives** for every project (not just code, but architecture)
+- **Technical decision logs** explaining trade-offs
+- **Deployment walkthroughs** to share DevOps knowledge
+- **DSA solutions** with complexity analysis
+
+The goal isn't just shipping—it's shipping *thoughtfully*.
+
+---
+
+## Next
+
+Working toward securing a backend engineering role that values system design depth and clean code. If you're building something interesting, let's talk.
