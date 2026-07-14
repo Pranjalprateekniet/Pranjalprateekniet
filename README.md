@@ -68,31 +68,31 @@ Open Source : Looking for Backend & AI collaborations
 
 ### Languages
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=java,js,ts,sql"/>
 </p>
 
 ### Backend
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=spring,nodejs"/>
 </p>
 
 ### Frontend
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=react,html,css"/>
 </p>
 
 ### Database
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=postgres,redis"/>
 </p>
 
 ### Tools
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,idea,postman"/>
 </p>
 
@@ -179,7 +179,7 @@ Open Source : Looking for Backend & AI collaborations
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Pranjalprateekniet/Pranjalprateekniet/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
