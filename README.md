@@ -145,62 +145,21 @@ Open Source : Looking for Backend & AI collaborations
 `Spring Security`
 `Redis`
 
+---
 
+---
 
-# GitHub Analytics
+# 🚀 Featured Project
 
 <p align="center">
-
-[<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pranjalprateekniet&show_icons=true&theme=github_dark&hide_border=true"/>
-](https://github-readme-stats.vercel.app/api?username=Pranjalprateekniet&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800)
-[<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranjalprateekniet&theme=github-dark&hide_border=true"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjalprateekniet&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800)
-
+  <a href="https://github.com/Pranjalprateekniet/FIT-TRACK-SPRINGBOOT">
+    <img width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pranjalprateekniet&repo=FIT-TRACK-SPRINGBOOT&theme=github_dark&hide_border=true" />
+  </a>
 </p>
 
 <p align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjalprateekniet&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <b>NuvioCore</b> • AI-powered Fitness & Nutrition Platform built using Spring Boot, PostgreSQL, JWT Authentication, Redis and REST APIs.
 </p>
-
----
-
-# Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Pranjalprateekniet/Pranjalprateekniet/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# Competitive Programming
-
-<div align="center">
-
-| Platform | Progress |
-|-----------|----------|
-| LeetCode | **250+ Problems Solved** |
-
-</div>
-
----
-
-# Quote
-
-<div align="center">
-
-```cpp
-while(alive){
-    learn();
-    build();
-    improve();
-}
-```
-
-</div>
-
----
 
 # Connect
 
@@ -226,6 +185,10 @@ while(alive){
 
 ![](https://komarev.com/ghpvc/?username=Pranjalprateekniet&style=for-the-badge&color=grey)
 
+
+
 ### Thanks for visiting.
+
+
 
 </div>
