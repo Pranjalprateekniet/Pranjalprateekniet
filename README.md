@@ -21,46 +21,38 @@ Building scalable backend systems while exploring AI, Agentic Workflows and Clou
 
 # 💡 About Me
 
-```java
-public class Pranjal {
+<table>
+<tr>
+<td width="50%">
 
-    String role = "Backend Developer";
+### 👨‍💻 Backend
 
-    String[] languages = {
-        "Java",
-        "Python",
-        "JavaScript",
-        "TypeScript"
-    };
+- Java
+- Spring Boot
+- Spring Security
+- REST APIs
+- Hibernate
+- JWT
+- PostgreSQL
+- Redis
 
-    String[] backend = {
-        "Spring Boot",
-        "Spring Security",
-        "REST APIs",
-        "JWT",
-        "Hibernate",
-        "JPA"
-    };
+</td>
 
-    String[] databases = {
-        "PostgreSQL",
-        "MySQL",
-        "MongoDB",
-        "Redis"
-    };
+<td width="50%">
 
-    String[] currentlyLearning = {
-        "Generative AI",
-        "LangChain",
-        "LangGraph",
-        "PyTorch",
-        "Cloud",
-        "System Design"
-    };
+### 🚀 Currently Learning
 
-}
-```
+- Generative AI
+- LangChain
+- LangGraph
+- PyTorch
+- Cloud Computing
+- Kubernetes
+- System Design
 
+</td>
+</tr>
+</table>
 ---
 
 # 🌟 Featured Projects
@@ -80,18 +72,6 @@ AI Powered Fitness Platform built using Spring Boot.
 - Redis
 
 ---
-
-### 🌐 Hi-Life Paints
-
-Modern business website built using Next.js and TypeScript.
-
-- SEO Optimized
-- Responsive UI
-- Server Side Rendering
-- Production Deployment
-
----
-
 # 🛠 Tech Stack
 
 ## Languages
