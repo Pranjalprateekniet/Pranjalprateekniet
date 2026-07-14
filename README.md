@@ -1,90 +1,245 @@
+<div align="center">
+
 # Pranjal Prateek
 
-> Backend systems engineer building production-grade AI applications. Java + Spring Boot | Learning MLOps + LangGraph.
+### Backend Developer • Java • Spring Boot • Distributed Systems
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Java+%7C+Spring+Boot+%7C+PostgreSQL;Learning+Cloud+%2B+System+Design+%2B+AI;250%2B+LeetCode+Problems+Solved" />
+
+<p align="center">
+<a href="https://github.com/Pranjalprateek">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pranjal-prateek-aab100375/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://leetcode.com/u/pranjalprateek/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</p>
+
+</div>
 
 ---
 
-## Current Focus
+# ~/about_me
+
+```bash
+pranjal@github:~$ whoami
+
+Name        : Pranjal Prateek
+Role        : Backend Developer
+
+Location    : India
+
+Education   : B.Tech Information Technology
+
+Languages   : Java • SQL • JavaScript • TypeScript
+
+Backend     : Spring Boot • Spring Security • JWT
+
+Database    : PostgreSQL • Redis
+
+Frontend    : React • React Native
+
+Tools       : Git • Docker • Linux
+
+Currently   : Building NuvioCore
+
+Learning    : Cloud • Kubernetes • System Design • Machine Learning
+
+DSA         : 250+ LeetCode Problems
+
+Goal        : Become a Backend Engineer building scalable distributed systems
+
+Status      : Building every single day...
+```
 
 ---
 
-## About
+# Tech Stack
 
-Building scalable backend systems with a focus on clean architecture and defensible design decisions. I approach each project as a real product—not a tutorial—with actual users in mind.
+<p align="center">
 
-**What drives me:**
-- Writing backend code I can defend in interviews
-- Understanding system design at scale (caching layers, database optimization, microservice patterns)
-- Exploring generative and agentic AI with LangChain/LangGraph as practical tools
-- Shipping projects end-to-end: from Spring Boot API to Docker to Railway/AWS deployment
-- Competitive programming and DSA as mental discipline (~350–400 problems, graphs/DP focus)
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,docker,git,github,linux,react,nodejs,ts,js,html,css,vscode,idea"/>
+
+</p>
 
 ---
 
-## Tech Radar
+# Current Focus
 
-**Confident:**
-Java · Spring Boot · Spring Security · REST APIs · PostgreSQL · Redis · Docker · React · Next.js
+```text
+📌 Building
+├── NuvioCore
+├── Packet Analyzer
+└── Backend APIs
 
-**Actively Learning:**
-Kotlin/Jetpack Compose · MLOps (MLflow) · LangChain/LangGraph · Kubernetes · Nginx · Git workflows
+📖 Learning
+├── System Design
+├── Cloud Computing
+├── Kubernetes
+├── Machine Learning
+└── Codeforces
 
-**Exploring:**
-PyTorch · FastAPI for ML systems · RAG architectures · Distributed systems
-
----
-
-## Featured Work
-
-### NuvioCore – FitTrack
-**AI-powered fitness platform** | Java, Spring Boot, PostgreSQL, Redis, Jetpack Compose
-
-A production-grade Android app with a backend architecture designed for scale:
-- **JWT authentication** with refresh token rotation
-- **Three-tier food lookup** (Redis cache → PostgreSQL → Edamam API fallback)
-- **Rate limiting** via Bucket4j
-- **Micronutrient tracking** with JSONB storage
-- **Agentic AI layer** using function calling for personalized nutrition
-- **Deployment:** Railway (backend), Google Play track (mobile)
-
-*Positioned as a portfolio piece demonstrating full-stack decisions: auth patterns, caching strategy, API design, and DevOps flow.*
+🎯 2026 Goals
+├── 500+ LeetCode Problems
+├── Master Spring Boot
+├── Build Production Scale Projects
+└── Crack Backend Engineer Role
+```
 
 ---
 
-### Hi-Life Nerolac Paints
-**Modern business website** | React, Tailwind, Next.js
+# Featured Projects
 
-Client-facing e-commerce platform for a local paint/sanitary retailer:
-- SEO-optimized product catalog
-- Responsive design from mobile to desktop
-- Integrated payment processing (Razorpay)
-- Server-side HMAC verification for security
-- Multi-tenant isolation with Supabase projects per client
-- Phone OTP authentication
+## 🏋️ NuvioCore
 
----
+> AI-powered Fitness & Nutrition Platform
 
-## Let's Connect
+**Features**
 
-**Email:** pranjalprateekniet@gmail.com  
-**GitHub:** [github.com/PranjalPrateekniet](https://github.com/PranjalPrateekniet)  
-**LinkedIn:** [linkedin.com/in/pranjal-prateek-aab100375](https://linkedin.com/in/pranjal-prateek-aab100375)  
-**LeetCode:** [leetcode.com/u/pranjalprateek](https://leetcode.com/u/pranjalprateek)
+- JWT Authentication
+- Spring Security
+- Nutrition Tracking
+- Workout Management
+- Goal Tracking
+- PostgreSQL
+- REST APIs
+- AI Ready Architecture
 
----
+**Tech**
 
-## Building In Public
-
-I document my learning process openly:
-- **System design deep dives** for every project (not just code, but architecture)
-- **Technical decision logs** explaining trade-offs
-- **Deployment walkthroughs** to share DevOps knowledge
-- **DSA solutions** with complexity analysis
-
-The goal isn't just shipping—it's shipping *thoughtfully*.
+`Spring Boot`
+`PostgreSQL`
+`JWT`
+`Spring Security`
+`Redis`
 
 ---
 
-## Next
+## 🌐 Hi-Life Paints
 
-Working toward securing a backend engineering role that values system design depth and clean code. If you're building something interesting, let's talk.
+Premium business website focused on SEO, performance and modern UI.
+
+**Tech**
+
+`Next.js`
+`TypeScript`
+`Tailwind CSS`
+
+---
+
+## 📡 Packet Analyzer
+
+A network packet analyzer written in Java with plans for ML-powered traffic classification.
+
+**Tech**
+
+`Java`
+`Computer Networks`
+`Machine Learning`
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pranjalprateek&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranjalprateek&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjalprateek&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranjalprateek&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# Competitive Programming
+
+<div align="center">
+
+| Platform | Progress |
+|-----------|----------|
+| LeetCode | **250+ Problems Solved** |
+| Codeforces | Beginning Competitive Programming Journey |
+
+</div>
+
+---
+
+# Quote
+
+<div align="center">
+
+```cpp
+while(alive){
+    learn();
+    build();
+    improve();
+}
+```
+
+</div>
+
+---
+
+# Connect
+
+<p align="center">
+
+<a href="https://github.com/Pranjalprateek">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pranjal-prateek-aab100375/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Pranjalprateek&style=for-the-badge&color=grey)
+
+### Thanks for visiting.
+
+</div>
