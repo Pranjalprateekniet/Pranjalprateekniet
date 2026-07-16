@@ -109,7 +109,6 @@ Open Source : Looking for Backend & AI collaborations
 ├── Cloud Computing
 ├── Kubernetes
 ├── Machine Learning
-└── Codeforces
 
 🎯 2026 Goals
 ├── 500+ LeetCode Problems
